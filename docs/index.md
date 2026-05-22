@@ -1,2 +1,2 @@
-// Update 2014 for docs/index.md
-// Random hash: 93263
+// Update 2015 for docs/index.md
+// Random hash: 99498
